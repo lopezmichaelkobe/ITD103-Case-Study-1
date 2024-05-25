@@ -1,0 +1,182 @@
+{
+    "cards": [
+    {
+        "_id": 1,
+        "name": "Sales",
+        "icon": "bi bi-cart",
+        "amount": 145,
+        "percentage": 0.12,
+        "active": true
+    },
+    {
+        "_id": 2,
+        "name": "Revenue",
+        "icon": "bi bi-currency-dollar",
+        "amount": 3246,
+        "percentage": 0.08,
+        "active": false
+    },
+    {
+        "_id": 3,
+        "name": "Customers",
+        "icon": "bi bi-people",
+        "amount": 1244,
+        "percentage": -0.11,
+        "active": false
+    }
+],
+    "news":[
+        {
+            "_id": 1,
+            "img": "..assets/items/news-1.jpg",
+            "title": "Nihil blanditiis at in nihil autem",
+            "subtitle": "sit recusandae non aspernaur laboriosam. asdbasidba asdasjdnasodnas dasndasn.",
+            "Category": "abc"
+        },
+        {
+            "_id": 2,
+            "img":"..assets/items/news-2.jpg",
+            "title": "papa nimo arnold aldous mama mo layla",
+            "subtitle": "dbabidbasuidba dnasdbasidbasid  dsadnasond dasd dawd ewfw4 fsdf sfa awddasd.",
+            "Category": "def"
+        },
+        {
+            "_id": 3,
+            "img":"..assets/items/news-2.jpg",
+            "title": "papa nimo arnold aldous mama mo layla",
+            "subtitle": "dbabidbasuidba dnasdbasidbasid  dsadnasond dasd dawd ewfw4 fsdf sfa awddasd.",
+            "Category": "def"
+        },
+        {
+            "_id": 4,
+            "img":"..assets/items/news-2.jpg",
+            "title": "papa nimo arnold aldous mama mo layla",
+            "subtitle": "dbabidbasuidba dnasdbasidbasid  dsadnasond dasd dawd ewfw4 fsdf sfa awddasd.",
+            "Category": "def"
+        },
+        {
+            "_id": 5,
+            "img":"..assets/items/news-2.jpg",
+            "title": "papa nimo arnold aldous mama mo layla",
+            "subtitle": "dbabidbasuidba dnasdbasidbasid  dsadnasond dasd dawd ewfw4 fsdf sfa awddasd.",
+            "Category": "def"
+        }
+    ],
+    "topselling":[
+        {
+            "_id": 1,
+            "preview":"..assets/items/news-2.jpg",
+            "name": "Almanac",
+            "price": 64,
+            "sold":98
+        },
+        {
+            "_id": 2,
+            "preview":"..assets/items/news-2.jpg",
+            "name": "Dictionary",
+            "price": 64,
+            "sold":98
+        },
+        {
+            "_id": 3,
+            "preview":"..assets/items/news-2.jpg",
+            "name": "Pabula",
+            "price": 64,
+            "sold":98
+        },
+        {
+            "_id": 4,
+            "preview":"..assets/items/news-2.jpg",
+            "name": "Alamats",
+            "price": 64,
+            "sold":98
+        },
+        {
+            "_id": 5,
+            "preview":"..assets/items/news-2.jpg",
+            "name": "Parabol",
+            "price": 64,
+            "sold":98
+        }
+
+    ],
+    "recentsales":[
+        {
+            "_id": 1,
+            "number":"..assets/items/news-2.jpg",
+            "customer": "Apollo Quiboloy",
+            "product": "Ang Pagmamahalan nina Aldous at Karina",
+            "price": 200,
+            "status": "Rejected"
+        },
+        {
+            "_id": 2,
+            "number":"..assets/items/news-2.jpg",
+            "customer": "Willie Revillame",
+            "product": "13th Century Artificial Intelligence",
+            "price": 1300,
+            "status": "Approved"
+        },
+        {
+            "_id": 3,
+            "number":"..assets/items/news-2.jpg",
+            "customer": "Ivana Alawi",
+            "product": "Reader's Digest: How to Roll your Eyes.",
+            "price": 1500,
+            "status": "Approved"
+        },
+        {
+            "_id": 4,
+            "number":"..assets/items/news-2.jpg",
+            "customer": "Juan dela Cruz",
+            "product": "Gusion's Item: The Legendary Sword",
+            "price": 800,
+            "status": "Approved"
+        },
+        {
+            "_id": 5,
+            "number":"..assets/items/news-2.jpg",
+            "customer": "Cardo Dalisay",
+            "product": "Webster's Encyclopedia",
+            "price": 760,
+            "status": "Approved"
+        }
+    ],
+    "recentactivity":[
+        {
+            "_id": 1,
+            "time":"32 min",
+            "color": "text-success",
+            "content": "Quia quae rerum explicabo officiis beatae",
+            "highlight": ""
+        },
+        {
+            "_id": 2,
+            "time":"32 min",
+            "color": "text-success",
+            "content": "sduiasbd wqqdwqbd qwdqwd dqwdqw fqeffewf wfwefwe.",
+            "highlight": 64
+        },
+        {
+            "_id": 3,
+            "time":"32 min",
+            "color": "text-success",
+            "content": "asbdinduiqqwd wdqwd  qwd dqwdqw sdf tjt aserh.",
+            "highlight": 64
+        },
+        {
+            "_id": 4,
+            "time":"32 min",
+            "color": "text-success",
+            "content": "nownc asdadqwn qwdwq asdd wq jordan.",
+            "highlight": 64
+        },
+        {
+            "_id": 5,
+            "time":"32 min",
+            "color": "text-success",
+            "content": "daidqw fwqf gwad herg adafe fwreg gweg.",
+            "highlight": 64
+        }
+    ]
+}
